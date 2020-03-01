@@ -1,0 +1,17 @@
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Acme.common.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Acme.common.pdb
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojAssemblyReference.cache
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\ACM.BL.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.CommonTest\bin\Debug\ACM.BL.pdb

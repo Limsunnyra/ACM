@@ -1,0 +1,5 @@
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.common\bin\Debug\Acme.common.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.common\bin\Debug\Acme.common.pdb
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.common\obj\Debug\Acme.common.csprojAssemblyReference.cache
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.common\obj\Debug\Acme.common.dll
+C:\Users\limsunnyrasok\source\repos\ACM\Acme.common\obj\Debug\Acme.common.pdb

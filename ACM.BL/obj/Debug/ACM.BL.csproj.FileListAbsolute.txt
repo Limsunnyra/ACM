@@ -1,0 +1,8 @@
+C:\Users\limsunnyrasok\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\limsunnyrasok\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\limsunnyrasok\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\Users\limsunnyrasok\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\limsunnyrasok\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\limsunnyrasok\source\repos\ACM\ACM.BL\bin\Debug\Acme.common.dll
+C:\Users\limsunnyrasok\source\repos\ACM\ACM.BL\bin\Debug\Acme.common.pdb
+C:\Users\limsunnyrasok\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
